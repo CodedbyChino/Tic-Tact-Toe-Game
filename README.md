@@ -22,7 +22,7 @@ To recreate this project:
 5. Follow the on-screen instructions to play the game.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/CodedbyChino/Tic-Tact-Toe-Game/blob/main/LICENSE) file for details.
 
 ## Contribution Instructions
 Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
