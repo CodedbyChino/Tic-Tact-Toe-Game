@@ -34,7 +34,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Submit a pull request to the main repository.
 
 ## Code Style Guidelines
-Please refer to [code_style_guidelines.md](code_style_guidelines.md) for code style guidelines.
+Please refer to [code_style_guidelines.md](https://github.com/CodedbyChino/Tic-Tact-Toe-Game/blob/main/Code%20Style%20Guidelines) for code style guidelines.
 
 ## Issues
 If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
